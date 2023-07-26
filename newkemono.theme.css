@@ -4,7 +4,18 @@
  * @description Newer Rem theme for my return
  * @version 5.1
  * https://images5.alphacoders.com/905/905995.png
+ * Supported Emoji Providers:
+	→ Apple
+	→ Facebook
+	→ Google
+	→ JoyPixels
+	→ Microsoft
+	→ OpenMoji
+	→ Samsung
+	→ Toss
+	→ WhatsApp
  */
+
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
 
  .app-2CXKsg {
